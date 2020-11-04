@@ -1,0 +1,439 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"Beauty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"a_s_",
+				"a_s_fast"
+			],
+			[
+				"a_w",
+				"a_w_average"
+			],
+			[
+				"file",
+				"file_base_name"
+			],
+			[
+				"mylis",
+				"mylist_copy"
+			],
+			[
+				"a",
+				"arg2"
+			],
+			[
+				"ag",
+				"arg1"
+			],
+			[
+				"my",
+				"myrange"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/quiz/zapytanie.txt",
+			"settings":
+			{
+				"buffer_size": 116,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C Single File.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/quiz/dbconnect.php",
+		"/C/Users/jedrz/OneDrive/Pulpit/Numerical-Methods-master/5. Dekompozycja LU i Eliminacja Gaussa/Program5/Program5/SolvingLinearSystem.h",
+		"/C/Users/jedrz/OneDrive/Pulpit/Numerical-Methods-master/5. Dekompozycja LU i Eliminacja Gaussa/Program5/Program5/Program5.cpp",
+		"/C/Users/jedrz/OneDrive/Pulpit/Numerical-Methods-master/5. Dekompozycja LU i Eliminacja Gaussa/Program5/Program5/Matrix.h",
+		"/C/Users/jedrz/OneDrive/Pulpit/Numerical-Methods-master/5. Dekompozycja LU i Eliminacja Gaussa/Program5/Program5/SolvingLinearSystem1.h",
+		"/C/Users/jedrz/OneDrive/Documents/MO/Zadanie3/Zadanie3/Zadanie3.cpp",
+		"/C/Users/jedrz/OneDrive/Documents/MO/Zadanie3/Zadanie3/ResultsStructures.h",
+		"/C/Users/jedrz/OneDrive/Documents/MO/Zadanie3/Zadanie3/ResultsStructures.cpp",
+		"/C/Users/jedrz/OneDrive/Documents/MO/Zadanie3/Zadanie3/NonLinearEquationSolving.h",
+		"/C/Users/jedrz/OneDrive/Documents/MO/Zadanie3/Zadanie3/NonLinearEquationSolving.cpp",
+		"/C/Users/jedrz/OneDrive/Pulpit/Strona HTML/index.html",
+		"/C/Users/jedrz/OneDrive/Documents/Zeszyt2.vcf",
+		"/C/Users/jedrz/OneDrive/Documents/Zeszyt1.vcf",
+		"/C/Users/jedrz/OneDrive/Pulpit/tel_taty_kontakty.csv",
+		"/C/Users/jedrz/OneDrive/Documents/Zeszyt1.csv",
+		"/C/Users/jedrz/OneDrive/Documents/tel_taty_kontakty.csv",
+		"/C/Users/jedrz/PycharmProjects/Mario_Kart/tel_taty_kontakty.csv",
+		"/C/Users/jedrz/PycharmProjects/Mario_Kart/Zeszyt1.csv",
+		"/E/Zeszyt1.csv",
+		"/C/Users/jedrz/OneDrive/Documents/kontakty",
+		"/C/Users/jedrz/OneDrive/Pulpit/tel_taty_kont.xlsx",
+		"/E/New folder/Agata Talar.vcf",
+		"/E/New folder/Agata Zięba.vcf",
+		"/E/New folder/Agnieszka Golonka.vcf",
+		"/E/New folder/Agnieszka Mickiewicz.vcf",
+		"/E/New folder/Agnieszka Tomera.vcf",
+		"/E/New folder/Ala Gołąb.vcf",
+		"/E/New folder/Alarm Kancelarii.vcf",
+		"/E/New folder/Andrzej Augustyn.vcf",
+		"/E/New folder/Andrzej Jasica.vcf",
+		"/E/New folder/Andrzej Kierowca sławka.vcf",
+		"/E/New folder/Andrzej Mincewicz.vcf",
+		"/E/New folder/Andrzej Stach.vcf",
+		"/E/New folder/Andrzej Sądel.vcf",
+		"/E/New folder/Andrzej.vcf",
+		"/E/New folder/Aneta Chełmecka.vcf",
+		"/E/New folder/Aneta Domiter-lis.vcf",
+		"/E/New folder/Ania Bubula.vcf",
+		"/E/New folder/Ania-Córka.vcf",
+		"/E/New folder/Aniela Korecka.vcf",
+		"/E/New folder/Anka Chełmecka.vcf",
+		"/E/New folder/Anna Konopka.vcf",
+		"/E/New folder/Anna Kot.vcf",
+		"/E/New folder/Antek Pajor.vcf",
+		"/E/New folder/Antek Piegza.vcf",
+		"/E/New folder/Antkiewicz Jan.vcf",
+		"/E/New folder/Asia Drzyzga.vcf",
+		"/E/New folder/Asia Jędrzejek.vcf",
+		"/E/New folder/Asia Sroka.vcf",
+		"/E/New folder/Augustyn Knurowski.vcf",
+		"/E/New folder/Barbara Gołębiowska-Makowiec.vcf",
+		"/E/New folder/Barbara Liszka.vcf",
+		"/E/New folder/Barbara Matlęga.vcf",
+		"/E/New folder/Bartek Michura.vcf",
+		"/E/New folder/Bartek Wilamowski.vcf",
+		"/E/New folder/Bartosz Wójcik.vcf",
+		"/E/New folder/Basia Czahura.vcf",
+		"/E/New folder/Basia Kolarz.vcf",
+		"/E/New folder/Basia Włodarczyk.vcf",
+		"/E/New folder/Basia Zelek.vcf",
+		"/E/New folder/Basia Zwięczak.vcf",
+		"/E/New folder/Basia_M.vcf",
+		"/E/New folder/Beata Gąsior.vcf",
+		"/E/New folder/Beata Małucha-Łabuz.vcf",
+		"/E/New folder/Beata Sekretariat.vcf",
+		"/E/New folder/Beata Szewczyk.vcf",
+		"/E/New folder/Bicz Dorota.vcf",
+		"/E/New folder/Biernacki.vcf",
+		"/E/New folder/Biernat,_M.vcf",
+		"/E/New folder/Bierowka_M.vcf",
+		"/E/New folder/Bogacz-Almanach.vcf",
+		"/E/New folder/Bogdan Daniel.vcf",
+		"/E/New folder/Bogdan Drzyzga.vcf",
+		"/E/New folder/Bogdan Franczak.vcf",
+		"/E/New folder/Bogdan Hebda.vcf",
+		"/E/New folder/Bogdan Kędroń.vcf",
+		"/E/New folder/Bogdan Syktus.vcf",
+		"/E/New folder/Bolek Garcarz.vcf",
+		"/E/New folder/Bożena Chełmecka.vcf",
+		"/E/New folder/Bożena Dudek.vcf",
+		"/E/New folder/Bożena Golonka.vcf",
+		"/E/New folder/Bożena Ogorzałek.vcf",
+		"/E/New folder/Bożena Wawrzyniak.vcf",
+		"/E/New folder/Buchman.vcf",
+		"/E/New folder/Bujak Biegły.vcf",
+		"/E/New folder/Bulanda Mordarka.vcf",
+		"/E/New folder/Burmistrz Bieda.vcf",
+		"/E/New folder/Burmistrz Kowalczyk.vcf",
+		"/E/New folder/Błaż Maciek.vcf",
+		"/E/New folder/Błaż Robert.vcf",
+		"/E/New folder/Cabała.vcf",
+		"/E/New folder/Chełmecki Piotrek.vcf",
+		"/E/New folder/Czachurski,_M.vcf",
+		"/E/New folder/Czechowska.vcf",
+		"/E/New folder/Czeczótka.vcf",
+		"/E/New folder/Czesiek Koza.vcf",
+		"/E/New folder/Czesiek Piszczek.vcf",
+		"/E/New folder/Czesiek Stanisławczyk.vcf",
+		"/E/New folder/Czop.vcf",
+		"/E/New folder/Da Mincewicz.vcf",
+		"/E/New folder/Da Vinci Łukasz.vcf",
+		"/E/New folder/Danusia Pławecka.vcf",
+		"/E/New folder/Danuta Czerwińska.vcf",
+		"/E/New folder/Danuta Grzegorzek.vcf",
+		"/E/New folder/Darek Opałek.vcf",
+		"/E/New folder/Darek Viscardi.vcf",
+		"/E/New folder/Dariusz Wróbel.vcf",
+		"/E/New folder/Darowska.vcf",
+		"/E/New folder/Dawid Uryga.vcf",
+		"/E/New folder/Debski,_M.vcf",
+		"/E/New folder/Dominik Łomzik.vcf",
+		"/E/New folder/Dorota Ceglarek.vcf",
+		"/E/New folder/Dorota Frączek.vcf",
+		"/E/New folder/Dorota Latała.vcf",
+		"/E/New folder/Duchnik,_M.vcf",
+		"/E/New folder/Dudek,_M.vcf",
+		"/E/New folder/Dutka Zbigni_M.vcf",
+		"/E/New folder/Dyr_ Sanepidu.vcf",
+		"/E/New folder/Dziduszko.vcf",
+		"/E/New folder/Dziedzina Franciszek.vcf",
+		"/E/New folder/Ela Bieda.vcf",
+		"/E/New folder/Ela Mordarska.vcf",
+		"/E/New folder/Ela Przechrzta.vcf",
+		"/E/New folder/Elektryk Odziomek.vcf",
+		"/E/New folder/Elwira Stochel.vcf",
+		"/E/New folder/Elżbieta Sułkowska.vcf",
+		"/E/New folder/Erb.vcf",
+		"/E/New folder/Ewa Miciak.vcf"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"E:\\New folder,<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"df2",
+			"df1",
+			"displayTable",
+			"Result",
+			"NonLinearEquationSolving",
+			"NLES",
+			"Ć",
+			"Åš",
+			"Å›",
+			"Ź",
+			"Åº",
+			"Å„",
+			"Å¼",
+			"Å",
+			"Ã³",
+			"Ä™",
+			"iÄ™",
+			"Ä…",
+			"Ä†",
+			"Å‚",
+			"?",
+			"VERSION:2.1",
+			"Ÿ",
+			"£",
+			"¿",
+			"ñ",
+			"ê",
+			"Œ",
+			"œ",
+			"Œ",
+			"¹",
+			"³",
+			"Æ"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pf2",
+			"pf1",
+			"Tabela",
+			"Wynik",
+			"RownaniaNieliniowe",
+			"RowNieLin",
+			"Ś",
+			"ś",
+			"ź",
+			"ń",
+			"ż",
+			"Ł",
+			"ó",
+			"ę",
+			"ą",
+			"Ć",
+			"ł",
+			"VERSION:3.0",
+			"ź",
+			"Ł",
+			"ż",
+			"ć",
+			"ń",
+			"ę",
+			"Ś",
+			"ś",
+			"Ś",
+			"ś",
+			"ą",
+			"ł",
+			"Ć"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/quiz/zapytanie.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C Single File.sublime-build",
+	"project": "Zadanie3.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

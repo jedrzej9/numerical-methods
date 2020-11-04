@@ -1,0 +1,7 @@
+﻿  Zadanie2.cpp
+c:\users\jedrz\onedrive\documents\mo\zadanie2\zadanie2\zadanie2.cpp(30): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jedrz\onedrive\documents\mo\zadanie2\zadanie2\zadanie2.cpp(31): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jedrz\onedrive\documents\mo\zadanie2\zadanie2\zadanie2.cpp(32): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jedrz\onedrive\documents\mo\zadanie2\zadanie2\zadanie2.cpp(35): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jedrz\onedrive\documents\mo\zadanie2\zadanie2\zadanie2.cpp(36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Zadanie2.vcxproj -> C:\Users\jedrz\OneDrive\Documents\MO\Zadanie2\Debug\Zadanie2.exe
