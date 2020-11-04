@@ -1,3 +1,3 @@
 # numerical-methods
 
-This repository contains numerical methods programms.
+This repository contains numerical methods programs.
